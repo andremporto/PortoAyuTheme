@@ -1,6 +1,6 @@
 ![Porto Ayu](./Assets/portoayu.jpg)
 
-This Xcode theme is based on **_ayu Theme_** color palette. It's feature is to make the code very easy to read with an nice contrast even in bright daylight.
+The **AyuHoo Xcode theme** is based on **_ayu Theme_** color palette. It's best feature is that it makes the code very easy to read with a nice contrast, even in the bright light of day.
 
 ## Screenshots
 
