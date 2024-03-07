@@ -4,8 +4,9 @@ The **AyuHoo Xcode theme** is based on **_ayu Theme_** color palette. It's best 
 
 ## Screenshots
 
-![Screenshot 01](./Assets/Screenshots/screen01.png)
-![Screenshot 02](./Assets/Screenshots/screen02.png)
+![Screenshot 01](./Assets/Screenshots/screen03.png)
+![Screenshot 02](./Assets/Screenshots/screen01.png)
+![Screenshot 03](./Assets/Screenshots/screen02.png)
 
 ## Installation
 
