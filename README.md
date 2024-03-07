@@ -1,6 +1,6 @@
 ![Porto Ayu](./Assets/portoayu.jpg)
 
-### This Xcode theme is based on the [ayu Theme](https://github.com/ayu-theme) color palette. This makes the code easy to read and contrast even in bright daylight.
+This Xcode theme is based on **_ayu Theme_** color palette. It's feature is to make the code very easy to read with an nice contrast even in bright daylight.
 
 ## Screenshots
 
@@ -9,14 +9,14 @@
 
 ## Installation
 
-1. You can install the theme by downloading the **_"APorto Ayu.xccolortheme"_** theme file and copy to folder:
+1. You can install the theme by downloading the **"AyuHoo.xccolortheme"** theme file and copy to folder:
 
 ```swift
    ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
 2. Restart Xcode.
-3. Go to preferences and select **_APorto Ayu_**.
+3. Go to preferences and select **AyuHoo** in the theme panel.
 
 > **Warning**: If the folder doesn't exist, create it manually!
 
