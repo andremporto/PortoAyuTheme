@@ -1,87 +1,26 @@
-![Porto Dark 01](./Assets/DarkTheme.png)
+![Porto Ayu](./Assets/portoayu.jpg)
 
-![Porto-Dark-Xcode-Theme](https://socialify.git.ci/andremporto/Porto-Dark-Xcode-Theme/image?description=1&descriptionEditable=Porto%20Dark%20theme%20for%20Xcode&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
+### This Xcode theme is based on the [ayu Theme](https://github.com/ayu-theme) color palette. This makes the code easy to read and contrast even in bright daylight.
 
-This is a port of the original Xcode Classic Dark theme.
+## Screenshots
+
+![Screenshot 01](./Assets/Screenshots/screen01.png)
+![Screenshot 02](./Assets/Screenshots/screen02.png)
 
 ## Installation
 
-1. You can install the theme by downloading the "Porto Dark.xccolortheme" theme file and copying it to:
+1. You can install the theme by downloading the **_"APorto Ayu.xccolortheme"_** theme file and copy to folder:
 
-```ruby
+```swift
    ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
 2. Restart Xcode.
-3. Go to preferences and select Porto Dark.
+3. Go to preferences and select **_APorto Ayu_**.
 
 > **Warning**: If the folder doesn't exist, create it manually!
 
-## Color Palette
-
-![Color reference](./Assets/color-reference.png)
-
-<!-- <style>
-    .heatMap td {
-      color: black;
-      font-weight: bold;
-    }
-    .heatMap {
-        width: 70%;
-        text-align: center;
-    }
-    .heatMap th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: center;
-    }
-    .heatMap tr:nth-child(1) { background: #FFFFFF; }
-    .heatMap tr:nth-child(2) { background: #6C7986; }
-    .heatMap tr:nth-child(3) { background: #92A1B1; }
-    .heatMap tr:nth-child(4) { background: #FC4651; }
-    .heatMap tr:nth-child(5) { background: #D3D96F; }
-    .heatMap tr:nth-child(6) { background: #FFFF0A; }
-    .heatMap tr:nth-child(7) { background: #FC3083; }
-    .heatMap tr:nth-child(8) { background: #5482FF; }
-    .heatMap tr:nth-child(9) { background: #5DD8FF; }
-    .heatMap tr:nth-child(10) { background: #35B0D8; }
-    .heatMap tr:nth-child(11) { background: #118040; }
-    .heatMap tr:nth-child(12) { background: #26C151; }
-    .heatMap tr:nth-child(13) { background: #50FA7B; }
-    .heatMap tr:nth-child(14) { background: #C492FF; }
-    .heatMap tr:nth-child(15) { background: #8E4AE0; }
-    .heatMap tr:nth-child(16) { background: #D0A8FF; }
-    .heatMap tr:nth-child(17) { background: #CC66FF; }
-    .heatMap tr:nth-child(18) { background: #AA0D91; }
-
-</style>
-
-<div class="heatMap">
-
-| COLOR REFERENCE | XCODE SOURCE EDITOR                   |
-| --------------- | ------------------------------------- |
-| #FFFFFF         | Plain Text                            |
-| #6C7986         | Comments/Documentation                |
-| #92A1B1         | Documentation Marks / Keywords        |
-| #FC4651         | Strings / Regex Literals              |
-| #D3D96F         | Characters                            |
-| #FFFF0A         | Numbers                               |
-| #FC3083         | Keywords                              |
-| #5482FF         | URLs                                  |
-| #5DD8FF         | Type Declarations                     |
-| #35B0D8         | Other Declarations                    |
-| #118040         | Project Class Names                   |
-| #26C151         | Project Function/Methods/Constants    |
-| #50FA7B         | Project Type Names/Properties/Globals |
-| #C492FF         | Other Class Names                     |
-| #8E4AE0         | Other Function/Methods/Constants      |
-| #D0A8FF         | Other Type Names                      |
-| #CC66FF         | Other Properties and Globals          |
-| #92A1B1         | Heading                               |
-
-</div> -->
-
-## Font
+## Font recomendation
 
 The theme uses the excellent open-source font [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/) that uses ligatures to reduce noise by blending symbols and removing details so the eyes process less.
 
@@ -97,9 +36,13 @@ You can download JetBrains Mono [HERE](https://www.jetbrains.com/pt-br/lp/mono/ 
 
 ![JetBrains Mono](./Assets/jetbrainsmono.png)
 
-## Screenshots
+## Author
 
-![Porto Dark 01](./Assets/Screenshots/screenshot01.png)
-![Porto Dark 02](./Assets/Screenshots/screenshot02.png)
-![Porto Dark 03](./Assets/Screenshots/screenshot03.png)
-![Porto Dark 04](./Assets/Screenshots/screenshot04.png)
+<a href="https://andreporto.vercel.app">
+ <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/andremporto/andremporto/main/foto/fotoperfil.png" width="130px;" alt="foto"/></a>
+ <br/>
+
+Made with ❤️ by André Porto.
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andremporto)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremporto/)](https://www.linkedin.com/in/andremporto/)
+[![Gmail Badge](https://img.shields.io/badge/-andreporto@me.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreporto@me.com)](mailto:andreporto@me.com)
